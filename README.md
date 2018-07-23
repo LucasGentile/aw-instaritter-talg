@@ -7,6 +7,12 @@
 * Gelson Gonçalves  
 * Tiago Xavier  
 
+## GitHub    
+https://github.com/tasima-uniritter/aw-instaritter-talg    
+
+## CircleCI    
+https://circleci.com/gh/tasima-uniritter/aw-instaritter-talg    
+
 ## HEROKU
 * Dev    
 https://dashboard.heroku.com/apps/insta-ritter-dev    
