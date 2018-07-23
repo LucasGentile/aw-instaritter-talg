@@ -21,7 +21,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 
 — 
 
-## MVA (v0)   
+## Instaritter MVA   
 	- Tecnologias:   
 		- Java    
 		- Spring   
@@ -39,7 +39,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Manter no GITHUB   
 		- Deploy automatico no Heroku   
 
-## MVA (v1)     
+## Instaritter v1     
 	- Tecnologias:   
 		- Java    
 		- Spring   
@@ -60,7 +60,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Manter no GITHUB   
 		- Deploy no AWS (avaliar Custo)   
   
-## MVA (v2)   
+## Instaritter v2   
 	- Tecnologias:    
 		- Java    
 		- Spring    
@@ -73,7 +73,6 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- API (Microservices):     
 			- Funcionalidade de Persistir uma imagem    
 			- Funcionalidade de Obter uma imagem    
-			- Funcionalidade de lista de imagens     
 		- Front :      
 			- Upload da imagem    
 			- Lista de imagens    
