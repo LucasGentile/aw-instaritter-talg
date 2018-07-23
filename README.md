@@ -21,7 +21,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 
 — 
 
-## Instaritter MVA   
+## Instaritter MVP  
 	- Tecnologias:   
 		- Java    
 		- Spring   
