@@ -1,0 +1,31 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+	<h1>Instaritter</h1>
+
+	<div th:if="${message}">
+		<h2 th:text="${message}"/>
+	</div>
+
+	<div>
+		<form method="POST" action="/uploadPicture" enctype="multipart/form-data">
+			<input type="file" name="pictureFile" /><br/><br/>
+			<input type="submit" value="Submit" />
+		</form>
+	</div>
+
+	<div>
+		<form method="GET" action="/picture">
+			<table>
+				<tr><td>Picture to upload:</td><td><input type="text" name="pictureId" /></td></tr>
+				<tr><td></td><td><input type="submit" value="GetImage" /></td></tr>
+			</table>
+		</form>
+	</div>
+	<div th:if="${picture}">
+		<ul>
+			<img  th:src="@{'data:image/jpeg;base64,'+${picture.getContent()}}" />
+		</ul>
+	</div>
+
+</body>
+</html>
