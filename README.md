@@ -1,3 +1,4 @@
+
 #Trabalho — APP Insta Ritter (insta-ritter)   
 
 ## Grupo
@@ -6,12 +7,6 @@
 * Lucas Gentile  
 * Gelson Gonçalves  
 * Tiago Xavier  
-
-## GitHub    
-https://github.com/tasima-uniritter/aw-instaritter-talg    
-
-## CircleCI    
-https://circleci.com/gh/tasima-uniritter/aw-instaritter-talg    
 
 ## HEROKU
 * Dev    
@@ -43,7 +38,9 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Front: Visualizar a imagem por id   
 	- Deploy   
 		- Manter no GITHUB   
-		- Deploy automatico no Heroku   
+		- Deploy automatico no Heroku
+
+![enter image description here](https://lh3.googleusercontent.com/sgc4tOd-nRhevQijOWmP7da2v3rKYL-M-McwsigcoHymXcK1rUTtTVQyQQy31V28O6rvxFbZj_Ak)
 
 ## MVA (v1)     
 	- Tecnologias:   
