@@ -40,7 +40,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Manter no GITHUB   
 		- Deploy automatico no Heroku
 
-![](https://lh3.googleusercontent.com/qLK9NfS9zCkQtIfCj3WR0CLZAIoMbi61k16V7e6JEhQdkUL3WM-3lEM8U_G-qh_8gKFxbC4weebg)
+![](https://lh3.googleusercontent.com/znBVXfPvhYyXVHWOZME9b0F2PzscsHZ_OtaAX5Qx7SoUhIwprpUeXgQRZ0M9GvAAXn09tdLPk5oT)
 
 ## MVA (v1)     
 	- Tecnologias:   
