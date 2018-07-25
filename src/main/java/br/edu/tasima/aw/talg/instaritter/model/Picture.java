@@ -27,4 +27,36 @@ public class Picture {
     @NotNull
     @Column(name = "PICTURE_DATE")
     private LocalDateTime pictureDate;
+
+    public Long getPictureId() {
+        return pictureId;
+    }
+
+    public void setPictureId(Long pictureId) {
+        this.pictureId = pictureId;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public String getContent() {
+        return content;
+    }
+
+    public void setContent(String content) {
+        this.content = content;
+    }
+
+    public LocalDateTime getPictureDate() {
+        return pictureDate;
+    }
+
+    public void setPictureDate(LocalDateTime pictureDate) {
+        this.pictureDate = pictureDate;
+    }
 }
