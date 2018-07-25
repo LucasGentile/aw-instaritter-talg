@@ -1,3 +1,4 @@
+
 #Trabalho — APP Insta Ritter (insta-ritter)   
 
 ## Grupo
@@ -37,7 +38,9 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Front: Visualizar a imagem por id   
 	- Deploy   
 		- Manter no GITHUB   
-		- Deploy automatico no Heroku   
+		- Deploy automatico no Heroku
+
+![](https://lh3.googleusercontent.com/znBVXfPvhYyXVHWOZME9b0F2PzscsHZ_OtaAX5Qx7SoUhIwprpUeXgQRZ0M9GvAAXn09tdLPk5oT)
 
 ## Instaritter v1     
 	- Tecnologias:   
@@ -59,6 +62,8 @@ https://github.com/mattia-battiston/clean-architecture-example
 	- Deploy   
 		- Manter no GITHUB   
 		- Deploy no AWS (avaliar Custo)   
+
+![](https://lh3.googleusercontent.com/bEHBVVsqsPx3HYhUYoFgGJE1pioI_ALGi0i6ezEJzDg9hnmmIg75pV5MBnXsUBqIvvoh-4HYNlih)
   
 ## Instaritter v2   
 	- Tecnologias:    

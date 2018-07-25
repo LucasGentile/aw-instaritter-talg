@@ -1,12 +1,12 @@
-package br.edu.tasima.aw.talg.awinstarittertalg;
+package br.edu.tasima.aw.talg.instaritter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AwInstaritterTalgApplication {
+public class InstaritterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AwInstaritterTalgApplication.class, args);
+		SpringApplication.run(InstaritterApplication.class, args);
 	}
 }
