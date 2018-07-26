@@ -1,4 +1,5 @@
 
+
 #Trabalho — APP Insta Ritter (insta-ritter)   
 
 ## Grupo
@@ -63,6 +64,8 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Manter no GITHUB   
 		- Deploy no AWS (avaliar Custo)   
 
+	- Custo AWS: U$ 692.24	
+
 ![](https://lh3.googleusercontent.com/bEHBVVsqsPx3HYhUYoFgGJE1pioI_ALGi0i6ezEJzDg9hnmmIg75pV5MBnXsUBqIvvoh-4HYNlih)
   
 ## Instaritter v2   
@@ -84,9 +87,12 @@ https://github.com/mattia-battiston/clean-architecture-example
 	- Deploy    
 		- Manter no GITHUB    
 		- Deploy no AWS    
-		- Use Load balance    
-    
-    
+		- Use Load balance
+
+	- Custo AWS: U$ 728.39    
+
 		- https://www.statuspage.io/    
 		- Autenticação - https://auth0.com/   
 		- Docker - https://aws.amazon.com/pt/ecs/   
+
+![](https://lh3.googleusercontent.com/rGGHVpU2JWL4nmeT8XSCNFZtLKnyHXaoFoKwfJ3yiw9K1FpW2VjegF6V8mANcNCEDVhZFCgU_bH5)
