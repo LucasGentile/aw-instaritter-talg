@@ -82,7 +82,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 			- Funcionalidade de Persistir uma imagem    
 			- Funcionalidade de Obter uma imagem    
 		- Front :      
-			- Upload da imagem    
+			- Upload da imagem (Imagem em sí no FileSysteam ao invés de utilizar o DB)   
 			- Lista de imagens    
 	- Deploy    
 		- Manter no GITHUB    
