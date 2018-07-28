@@ -1,6 +1,6 @@
 
 
-#Trabalho — APP Insta Ritter (insta-ritter)   
+#Trabalho — APP InstaRitter (insta-ritter)   
 
 ## Grupo
 
@@ -9,7 +9,7 @@
 * Gelson Gonçalves  
 * Tiago Xavier  
 
-## HEROKU
+## HEROKU - Ambientes
 * Dev    
 https://dashboard.heroku.com/apps/insta-ritter-dev    
 https://insta-ritter-dev.herokuapp.com/    
@@ -18,12 +18,15 @@ https://insta-ritter-dev.herokuapp.com/
 https://dashboard.heroku.com/apps/insta-ritter   
 https://insta-ritter.herokuapp.com/    
 
+## CIRCLECI - 
+https://circleci.com/gh/tasima-uniritter/aw-instaritter-talg    
+https://circleci.com/gh/tasima-uniritter/aw-instaritter-talg-service   
+https://circleci.com/gh/tasima-uniritter/aw-instaritter-talg-client   
+
 ## Referências:   
 https://github.com/mattia-battiston/clean-architecture-example    
 
-— 
-
-## Instaritter MVP  
+## Instaritter MVAv0
 	- Tecnologias:   
 		- Java    
 		- Spring   
@@ -31,7 +34,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Banco H2   
 	- Arquitetura   
 		- Monolito   
-		- Multi camadas simple   
+		- Multi camadas simple
 	- Features (Monolito):   
 		- API: Funcionalidade de Persistir uma imagem   
 		- API: Funcionalidade de Obter uma imagem   
@@ -43,7 +46,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 
 ![](https://lh3.googleusercontent.com/znBVXfPvhYyXVHWOZME9b0F2PzscsHZ_OtaAX5Qx7SoUhIwprpUeXgQRZ0M9GvAAXn09tdLPk5oT)
 
-## Instaritter v1     
+## Instaritter MVAv1     
 	- Tecnologias:   
 		- Java    
 		- Spring   
@@ -68,7 +71,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 
 ![](https://lh3.googleusercontent.com/bEHBVVsqsPx3HYhUYoFgGJE1pioI_ALGi0i6ezEJzDg9hnmmIg75pV5MBnXsUBqIvvoh-4HYNlih)
   
-## Instaritter v2   
+## Instaritter MVAv2   
 	- Tecnologias:    
 		- Java    
 		- Spring    
