@@ -65,7 +65,7 @@ https://github.com/mattia-battiston/clean-architecture-example
 			- Lista de imagens   
 	- Deploy   
 		- Manter no GITHUB   
-		- Deploy no AWS (avaliar Custo)   
+		- Deploy no AWS
 
 	- Custo AWS: U$ 692.24	
 
@@ -91,11 +91,9 @@ https://github.com/mattia-battiston/clean-architecture-example
 		- Manter no GITHUB    
 		- Deploy no AWS    
 		- Use Load balance
+		- Docker 
+		- Auth0
 
 	- Custo AWS: U$ 728.39    
-
-		- https://www.statuspage.io/    
-		- Autenticação - https://auth0.com/   
-		- Docker - https://aws.amazon.com/pt/ecs/   
 
 ![](https://lh3.googleusercontent.com/rGGHVpU2JWL4nmeT8XSCNFZtLKnyHXaoFoKwfJ3yiw9K1FpW2VjegF6V8mANcNCEDVhZFCgU_bH5)
